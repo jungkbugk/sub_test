@@ -1,3 +1,4 @@
 #pragma once
-int sub(n);
+
+int sub(int n);
 

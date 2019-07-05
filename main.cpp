@@ -4,5 +4,5 @@
 int main(){
 	int n;
 	scanf("%d", &n);
-	printf("%d", sub(n));
+	printf("result = %d\n", sub(n));
 }
